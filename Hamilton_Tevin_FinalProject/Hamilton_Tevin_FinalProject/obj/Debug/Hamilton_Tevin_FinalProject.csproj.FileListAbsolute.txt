@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\bin\Debug\Hamilton_Tevin_FinalProject.exe.config
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\bin\Debug\Hamilton_Tevin_FinalProject.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\bin\Debug\Hamilton_Tevin_FinalProject.pdb
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\obj\Debug\Hamilton_Tevin_FinalProject.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\obj\Debug\Hamilton_Tevin_FinalProject.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\obj\Debug\Hamilton_Tevin_FinalProject.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_FinalProject\Hamilton_Tevin_FinalProject\obj\Debug\Hamilton_Tevin_FinalProject.pdb
